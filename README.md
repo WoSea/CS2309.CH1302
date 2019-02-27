@@ -14,5 +14,5 @@ Demo và thực hành các bài tập về Thị giác máy tính
 * **Wosea**  
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/WoSea/CS2309.CH1302/blob/master/LICENSE) file for details
  
