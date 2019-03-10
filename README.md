@@ -4,9 +4,9 @@ Demo và thực hành các bài tập về Thị giác máy tính
  
 ## Danh sách
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [1.Iris Flower Classification](https://github.com/WoSea/CS2309.CH1302/tree/master/1.Iris%20Flower%20Classification) - BT1
+* [2.VGG Model](https://github.com/WoSea/CS2309.CH1302/tree/master/2.VGG%20Model) 
+* [ROME](https://rometools.github.io/rome/) - 
 
  
 ## Authors
